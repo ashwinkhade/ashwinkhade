@@ -1,7 +1,12 @@
 # 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
-#👋 ʜɪ, ɪ'ᴍ ᴀsʜᴡɪɴ ᴋʜᴀᴅᴇ  🎓 ʙ.ᴛᴇᴄʜ ᴀɪ & ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ   💻 ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴅᴀᴛᴀ ᴀɴᴀʟʏᴛɪᴄs, ᴀɪ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ   🚀 ʙᴜɪʟᴅɪɴɢ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ, ᴄ++, sǫʟ, ᴘᴏᴡᴇʀ ʙɪ & ᴊᴀᴠᴀsᴄʀɪᴘᴛ   🌱 ᴀʟᴡᴀʏs ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ɪᴍᴘʀᴏᴠɪɴɢ ᴘʀᴏʙʟᴇᴍ-sᴏʟᴠɪɴɢ sᴋɪʟʟs
 
-## 🌐 Socials:
+#👋 ʜɪ, ɪ'ᴍ ᴀsʜᴡɪɴ ᴋʜᴀᴅᴇ 
+    🎓 ʙ.ᴛᴇᴄʜ ᴀɪ & ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ   
+    💻 ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴅᴀᴛᴀ ᴀɴᴀʟʏᴛɪᴄs, ᴀɪ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ   
+    🚀 ʙᴜɪʟᴅɪɴɢ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ, ᴄ++, sǫʟ, ᴘᴏᴡᴇʀ ʙɪ & ᴊᴀᴠᴀsᴄʀɪᴘᴛ   
+    🌱 ᴀʟᴡᴀʏs ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ɪᴍᴘʀᴏᴠɪɴɢ ᴘʀᴏʙʟᴇᴍ-sᴏʟᴠɪɴɢ sᴋɪʟʟs
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_khade05 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-khade05 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashwin_khade05 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ashwin_khade05 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinkhade467@gmail.com) 
 
 # 💻 Tech Stack:
