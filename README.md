@@ -11,11 +11,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_khade05 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-khade05 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashwin_khade05 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ashwin_khade05 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinkhade467@gmail.com) 
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 :
-# ⚡ Tech Stack
+
+<h1 align="center">⚡ Tech Stack</h1>
 
 <div align="center">
 
-### 👨‍💻 Languages & Scripting
+<h3 align="center">👨‍💻 Languages & Scripting</h3>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -37,7 +38,7 @@
 
 <br><br>
 
-### 🤖 AI / ML & Data Science
+<h3 align="center">🤖 AI / ML & Data Science</h3>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -51,7 +52,7 @@
 
 <br><br>
 
-### 🌐 Frameworks
+<h3 align="center">🌐 Frameworks</h3>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -63,7 +64,7 @@
 
 <br><br>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -72,7 +73,7 @@
 
 <br><br>
 
-### ☁️ Cloud & Deployment
+<h3 align="center">☁️ Cloud & Deployment</h3>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -84,7 +85,7 @@
 
 <br><br>
 
-### 🛠️ Tools
+<h3 align="center">🛠️ Tools</h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
