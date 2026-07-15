@@ -1,6 +1,5 @@
 # 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
-# 👋👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚜𝚑𝚠𝚒𝚗 𝙺𝚑𝚊𝚍𝚎<𝚋𝚛><𝚋𝚛>🎓 𝙱.𝚃𝚎𝚌𝚑 𝚒𝚗 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 & 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎  <𝚋𝚛>💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜, 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎, 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐  <𝚋𝚛>🚀 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝚂𝚀𝙻, 𝙿𝚘𝚠𝚎𝚛 𝙱𝙸, 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝  <𝚋𝚛>📊 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎, 𝚊𝚗𝚍 𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜  <𝚋𝚛>🌱 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜
-
+#👋 ʜɪ, ɪ'ᴍ ᴀsʜᴡɪɴ ᴋʜᴀᴅᴇ  🎓 ʙ.ᴛᴇᴄʜ ᴀɪ & ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ   💻 ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴅᴀᴛᴀ ᴀɴᴀʟʏᴛɪᴄs, ᴀɪ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ   🚀 ʙᴜɪʟᴅɪɴɢ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ, ᴄ++, sǫʟ, ᴘᴏᴡᴇʀ ʙɪ & ᴊᴀᴠᴀsᴄʀɪᴘᴛ   🌱 ᴀʟᴡᴀʏs ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ɪᴍᴘʀᴏᴠɪɴɢ ᴘʀᴏʙʟᴇᴍ-sᴏʟᴠɪɴɢ sᴋɪʟʟs
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_khade05 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-khade05 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashwin_khade05 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ashwin_khade05 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinkhade467@gmail.com) 
