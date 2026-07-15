@@ -14,7 +14,6 @@
 
 <div align="center">
 
-<p align="center"><strong><font size="6">⚡ Tech Stack</font></strong></p>
 
 <p align="center"><strong>👨‍💻 Languages & Scripting</strong></p>
 
