@@ -8,6 +8,7 @@
                🌱 𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐬𝐤𝐢𝐥𝐥𝐬
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 : 
+
 <div align="center">
 
 <a href="https://magnificent-beijinho-a56cad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
