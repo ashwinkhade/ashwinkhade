@@ -130,13 +130,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwinkhade&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 :
+# 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 :
 ![](https://github-profile-trophy.vercel.app/?username=ashwinkhade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞 :
+# ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞 :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨 :
+# 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨 :
 ![](https://github-contributor-stats.vercel.app/api?username=ashwinkhade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
