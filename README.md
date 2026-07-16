@@ -2,10 +2,10 @@
 
 # 👋 𝐇𝐢, 𝐈'𝐦 𝐀𝐬𝐡𝐰𝐢𝐧 𝐊𝐡𝐚𝐝𝐞.,
 
-      🎓 𝐁.𝐓𝐞𝐜𝐡 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 
-         💻 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬, 𝐀𝐈 & 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
-            🚀 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐂++, 𝐒𝐐𝐋, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 & 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 
-               🌱 𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐬𝐤𝐢𝐥𝐥𝐬
+     🎓 𝓑.𝓣𝓮𝓬𝓱 𝓐𝓘 & 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 
+     💻 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓓𝓪𝓽𝓪 𝓐𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼, 𝓐𝓘 & 𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 
+     🚀 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷, 𝓒++, 𝓢𝓠𝓛, 𝓟𝓸𝔀𝓮𝓻 𝓑𝓘 & 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽 
+     🌱 𝓐𝓵𝔀𝓪𝔂𝓼 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓪𝓷𝓭 𝓲𝓶𝓹𝓻𝓸𝓿𝓲𝓷𝓰 𝓹𝓻𝓸𝓫𝓵𝓮𝓶-𝓼𝓸𝓵𝓿𝓲𝓷𝓰 𝓼𝓴𝓲𝓵𝓵𝓼
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 : 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_khade05 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-khade05 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashwin_khade05 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ashwin_khade05 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinkhade467@gmail.com) 
