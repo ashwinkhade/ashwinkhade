@@ -12,7 +12,6 @@
 
 <div align="center">
 
-
 <a href="https://magnificent-beijinho-a56cad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/ashwinkhade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ashwin-khade05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -128,7 +127,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=ashwinkhade&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ashwinkhade&theme=maroongold&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwinkhade&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 
 # 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 :
 ![](https://github-profile-trophy.vercel.app/?username=ashwinkhade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
