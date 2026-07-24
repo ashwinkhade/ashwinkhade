@@ -129,6 +129,18 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwinkhade&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
+# 🐍 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinkhade/ashwinkhade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinkhade/ashwinkhade/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ashwinkhade/ashwinkhade/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 # 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 :
 ![](https://github-profile-trophy.vercel.app/?username=ashwinkhade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
